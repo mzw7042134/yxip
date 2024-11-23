@@ -1,3 +1,4 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 13.250.125.91,443,443,TRUE,SIN,Asia Pacific,SG,Singapore,84,24.66
 13.212.33.192,443,443,TRUE,SIN,Asia Pacific,SG,Singapore,85,23.44
 8.20.125.1,443,443,TRUE,SFO,North America,US,San Francisco,190,18.51
@@ -20,7 +21,6 @@
 176.105.253.66,443,0,TRUE,WAW,Europe,PL,Warsaw,202,10.37
 67.226.221.186,443,443,TRUE,SJC,North America,US,San Jose,163,10.32
 95.164.8.31,443,443,TRUE,TLL,Europe,EE,Tallinn,217,10.03
-122.248.213.157,443,443,TRUE,SIN,Asia Pacific,SG,Singapore,89,22.67
 207.2.120.16,443,443,TRUE,SJC,North America,US,San Jose,180,16.73
 20.2.193.196,443,443,TRUE,HKG,Asia Pacific,HK,Hong Kong,110,16.71
 195.54.174.74,443,443,TRUE,AMS,Europe,NL,Amsterdam,161,14.87
